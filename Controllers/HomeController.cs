@@ -1,4 +1,4 @@
-﻿using Eccomerce.Models;
+﻿using Eccomerce.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;

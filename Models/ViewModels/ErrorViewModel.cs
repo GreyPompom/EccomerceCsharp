@@ -1,6 +1,6 @@
 using System;
 
-namespace Eccomerce.Models
+namespace Eccomerce.Models.ViewModels
 {
     public class ErrorViewModel
     {
