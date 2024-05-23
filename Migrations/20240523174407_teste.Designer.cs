@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Eccomerce.Migrations
 {
     [DbContext(typeof(EccomerceContext))]
-    [Migration("20240523163316_three-entities")]
-    partial class threeentities
+    [Migration("20240523174407_teste")]
+    partial class teste
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
