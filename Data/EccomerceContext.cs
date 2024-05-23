@@ -15,5 +15,8 @@ namespace Eccomerce.Data
         }
 
         public DbSet<Eccomerce.Models.Department> Department { get; set; }
+        public DbSet<Eccomerce.Models.Seller> Seller { get; set; }
+        public DbSet<Eccomerce.Models.SalesRecord> SalesRecords { get; set; }
+
     }
 }
